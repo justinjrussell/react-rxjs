@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/justinjrussell/react-rxjs.svg?branch=master)](https://travis-ci.org/justinjrussell/react-rxjs)
-
+[![Coverage Status](https://coveralls.io/repos/github/justinjrussell/react-rxjs/badge.svg?branch=master)](https://coveralls.io/github/justinjrussell/react-rxjs?branch=master)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
